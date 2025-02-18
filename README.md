@@ -160,4 +160,4 @@ This project is licensed under the MIT License.
 
 ---
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/mexirica/option.svg)](https://pkg.go.dev/github.com/mexirica/option)
+[![Go Reference](https://pkg.go.dev/badge/github.com/mexirica/option-type.svg)](https://pkg.go.dev/github.com/mexirica/option-type)
